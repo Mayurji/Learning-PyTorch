@@ -18,17 +18,13 @@
 * Loading and preprocessing Textdata in torchtext
 * Using Pretrained Word Embedding in torchtext
 * DataLoaders
-* Transforms in torchvision
-* zero_grad()
-* optimizer.backward()
 * How parameters i.e. coefficients of a neural network is initialized
 * Training GANs Network.
 * Saving and Loading GANs Network for Image Generation.
-* optim()
 * state_dict() - save the model
 * What happens when you don't normalize data
 * How to avoid making gradient descent from reaching nan or inf
-* difference between save() and state_dict()
+* Difference between save() and state_dict()
 
 ### Pytorch for Deep Learning 
 
