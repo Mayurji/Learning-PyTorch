@@ -1,6 +1,6 @@
 ### Deep Learning with Pytorch
 
-**Things you will learn in Notebook **
+**Things you will learn in Notebook**
 
 * How to train a pretrained model in Pytorch
 * How to work with pytorch like tensor, numpy to tensor, named tensor, storage in pytorch etc.
