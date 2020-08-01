@@ -2,7 +2,7 @@ The Lesson in this notebooks are taught by Eli Stevens, Luca Antiga, AND Thomas 
 
 The book contains both the theory and implementation of Deep Learning Models.
 
-**Notebook I **
+**Notebook I**
 
 * How to train a pretrained model in Pytorch
 * How to work with pytorch like tensor, numpy to tensor, named tensor, storage in pytorch etc.
