@@ -2,8 +2,8 @@
 
 An Autoencoder consists of two component, one is encoder and other is a decoder.
 
-    **An encoder network that compresses high-dimensional input data into a lower-dimensional representation vector.**
-    **A decoder network that decompresses a given representation vector back to the original domain.**
+ **An encoder network that compresses high-dimensional input data into a lower-dimensional representation vector.**
+ **A decoder network that decompresses a given representation vector back to the original domain.**
 
 The network is trained to find weights for the encoder and decoder that minimize the loss between the original input and the reconstruction
 of the input after it has passed through the encoder and decoder.
