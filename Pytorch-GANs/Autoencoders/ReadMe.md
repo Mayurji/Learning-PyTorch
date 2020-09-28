@@ -17,13 +17,13 @@ convert points in the latent space into viable images.
 
 # **Variational Autoencoders**
 
-In an autoencoder, each image is mapped directly to one point in the latent space. In a variational autoencoder, each image is instead mapped to
-a multivariate normal distribution around a point in the latent space.
+In an autoencoder, each image is mapped directly to one point in the latent space. **In a variational autoencoder, each image is instead mapped to
+a multivariate normal distribution around a point in the latent space.**
 
-Variational autoencoders assume that there is no correlation between any of the dimensions in the latent space and therefore that the covariance 
+**Variational autoencoders assume that there is no correlation between any of the dimensions in the latent space and therefore that the covariance 
 matrix is diagonal. This means the encoder only needs to map each input to a mean vector and a variance vector and does not need to worry about 
 covariance between dimensions. We also choose to map to the logarithm of the variance, as this can take any real number in the range (– ∞, ∞), 
-matching the natural output range from a neural network unit, whereas variance values are always positive.
+matching the natural output range from a neural network unit, whereas variance values are always positive.**
 
 [Variational Autoencoders](Img/vae.png)
 
