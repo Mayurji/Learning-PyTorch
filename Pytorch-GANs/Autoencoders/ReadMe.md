@@ -25,6 +25,8 @@ matrix is diagonal. This means the encoder only needs to map each input to a mea
 covariance between dimensions. We also choose to map to the logarithm of the variance, as this can take any real number in the range (– ∞, ∞), 
 matching the natural output range from a neural network unit, whereas variance values are always positive.**
 
+# **Digit 1 - Pixel Distribution**
+
 ![Variational Autoencoders](Img/vae.png)
 
 
