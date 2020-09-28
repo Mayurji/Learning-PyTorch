@@ -2,9 +2,9 @@
 
 An Autoencoder consists of two component, one is encoder and other is a decoder.
 
- **An encoder network that compresses high-dimensional input data into a lower-dimensional representation vector.**
+ **Encoder network compresses high-dimensional input data into a lower-dimensional representation vector.**
  
- **A decoder network that decompresses a given representation vector back to the original domain.**
+ **Decoder network decompresses a given representation vector back to the original domain.**
 
 The network is trained to find weights for the encoder and decoder that minimize the loss between the original input and the reconstruction
 of the input after it has passed through the encoder and decoder.
@@ -13,7 +13,7 @@ The representation vector is a compression of the original image into a lower-di
 in the latent space, we should be able to generate novel images by passing this point through the decoder, since the decoder has learned how to
 convert points in the latent space into viable images.
 
-[Autoencoders](/Img/ae.png)
+[Autoencoders](Img/ae.png)
 
 # **Variational Autoencoders**
 
@@ -25,6 +25,6 @@ matrix is diagonal. This means the encoder only needs to map each input to a mea
 covariance between dimensions. We also choose to map to the logarithm of the variance, as this can take any real number in the range (– ∞, ∞), 
 matching the natural output range from a neural network unit, whereas variance values are always positive.**
 
-[Variational Autoencoders](/Img/vae.png)
+[Variational Autoencoders](Img/vae.png)
 
 
