@@ -13,6 +13,8 @@ The representation vector is a compression of the original image into a lower-di
 in the latent space, we should be able to generate novel images by passing this point through the decoder, since the decoder has learned how to
 convert points in the latent space into viable images.
 
+# **Generated MNIST from a point in Latent Space**
+
 ![Autoencoders](Img/ae.png)
 
 # **Variational Autoencoders**
@@ -29,4 +31,5 @@ matching the natural output range from a neural network unit, whereas variance v
 
 ![Variational Autoencoders](Img/vae.png)
 
-
+# Note
+**Explanation is available in Notebooks**
