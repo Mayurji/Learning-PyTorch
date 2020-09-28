@@ -13,7 +13,7 @@ The representation vector is a compression of the original image into a lower-di
 in the latent space, we should be able to generate novel images by passing this point through the decoder, since the decoder has learned how to
 convert points in the latent space into viable images.
 
-[Autoencoders](Img/ae.png)
+[Autoencoders](/Img/ae.png)
 
 # **Variational Autoencoders**
 
@@ -25,6 +25,6 @@ matrix is diagonal. This means the encoder only needs to map each input to a mea
 covariance between dimensions. We also choose to map to the logarithm of the variance, as this can take any real number in the range (– ∞, ∞), 
 matching the natural output range from a neural network unit, whereas variance values are always positive.**
 
-[Variational Autoencoders](Img/vae.png)
+[Variational Autoencoders](/Img/vae.png)
 
 
