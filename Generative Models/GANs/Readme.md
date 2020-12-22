@@ -1,0 +1,1 @@
+Variants of GAN's
