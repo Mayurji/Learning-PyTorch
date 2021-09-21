@@ -1,7 +1,8 @@
 # Learning PyTorch
 
-### PyTorch-I
-    
+<details>
+<summary>PyTorch-I</summary>
+
 * Exploring Image.
 * Creating Scalar, Vector, and Tensor.
 * Mathematical Operation On Tensors.
@@ -14,5 +15,6 @@
 * Dot Product of a Tensor.
 * Matrix-Vector Multiplication.
 
+</details>
 
 
