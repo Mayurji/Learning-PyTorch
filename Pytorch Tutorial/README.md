@@ -19,7 +19,7 @@
 
 <details>
 <summary>PyTorch-II</summary>
-
+<br>
 <strong>Named Tensors</strong>
 
    - How To Declare Named Dimensions?
