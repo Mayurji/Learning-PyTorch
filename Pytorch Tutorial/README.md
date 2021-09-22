@@ -19,6 +19,7 @@
 
 <details>
 <summary>PyTorch-II</summary>
+
 <strong>Named Tensors</strong>
 
    - How To Declare Named Dimensions?
@@ -37,5 +38,5 @@
    - Storage and Stride.
    - Accessing Elements Using Stride and Index.
    - Comparing Index and Stride Based Element.
-   
+
 </details>
