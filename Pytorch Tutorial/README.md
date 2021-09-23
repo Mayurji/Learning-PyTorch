@@ -40,3 +40,22 @@
    - Comparing Index and Stride Based Element.
 
 </details>
+
+<details>
+<summary>PyTorch-III</summary>
+<br>
+- Introducing Batch Dimension.
+- Load Batch Of Images (Not Recommended Approach).
+- Normalization
+    - Resize.
+    - Standardization.
+    - Plotting.
+- Creating One-Hot Encoding.
+    - Convert Vector Into One-Hot Encoded Matrix.
+    - Sample Example On Scatter_ with Zero and One Dimension.
+    - Filter observation based on Condition.
+- Norm
+    - L2 Norm
+    - L1 Norm
+
+</details>
