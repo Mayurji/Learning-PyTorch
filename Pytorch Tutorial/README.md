@@ -54,13 +54,13 @@
         - Standardization.
         - Plotting.
 
-    - Creating One-Hot Encoding.
+   - Creating One-Hot Encoding.
 
         - Convert Vector Into One-Hot Encoded Matrix.
         - Sample Example On Scatter_ with Zero and One Dimension.
         - Filter observation based on Condition.
 
-    - Norm
+   - Norm
         - L2 Norm
         - L1 Norm
 
