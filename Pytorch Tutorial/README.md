@@ -69,7 +69,7 @@
 <details>
 <summary>PyTorch-IV</summary>
 <br>
-   - <strong>Handling Time Series Data</strong>
-   
-   - <strong>Handling Text Data</strong>
+- <strong>Handling Time Series Data</strong>
+
+- <strong>Handling Text Data</strong>
 </details>
