@@ -70,7 +70,5 @@
 <summary>PyTorch-IV</summary>
 <br>
    - Handling Time Series Data.
-
    - Handling Text Data.
-
 </details>
