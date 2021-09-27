@@ -79,7 +79,7 @@
 <summary>PyTorch-V</summary>
 <br>
 
-   - Building simple model.
+   - Building a simple Linear model.
    - Computing derivative.
    - Training and computing loss.
    - Using Autograd.
@@ -101,5 +101,6 @@
    - Building Neural Network With One Hidden Layer.
    - Finding total number of parameters in the model.
    - Building Sequential Model using OrderedDict and Named Layers.
+   - Training the model and predicting on validation samples.
 
 </details>
