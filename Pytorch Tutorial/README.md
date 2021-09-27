@@ -87,3 +87,18 @@
    - Training and Updating parameters using Autograd.
 
 </details>
+
+<details>
+<summary>PyTorch-VI</summary>
+<br>
+   - Using Pytorch Optimizer.
+   - Splitting Dataset.
+   - Training without no_grad.
+   - Training with no_grad.
+   - Creating Polynomial Model for faster convergence.
+   - Building Neural Network Using nn.Module.
+   - Building Neural Network With One Hidden Layer.
+   - Finding total number of parameters in the model.
+   - Building Sequential Model using OrderedDict and Named Layers.
+
+</details>
