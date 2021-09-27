@@ -91,6 +91,7 @@
 <details>
 <summary>PyTorch-VI</summary>
 <br>
+
    - Using Pytorch Optimizer.
    - Splitting Dataset.
    - Training without no_grad.
