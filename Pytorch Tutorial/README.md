@@ -73,3 +73,15 @@
    <br>
    - Handling Text Data.
 </details>
+
+<details>
+<summary>PyTorch-V</summary>
+
+- Building simple model.
+- Computing derivative.
+- Training and computing loss.
+- Using Autograd.
+- Turn tensor to a learnable parameter.
+- Training and Updating parameters using Autograd.
+
+</details>
