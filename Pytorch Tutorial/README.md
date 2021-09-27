@@ -3,17 +3,18 @@
 <details>
 <summary>PyTorch-I</summary>
 <br>
-   * Exploring Image.
-   * Creating Scalar, Vector, and Tensor.
-   * Mathematical Operation On Tensors.
-   * Turning Vector Into Matrix.
-   * Transpose and Accessing Elements of a Tensors.
-   * Selecting particular row/column of a Tensors.
-   * Elementwise Multimultiplication of a Tensor.
-   * Matrix Multiplication of a Tensor.
-   * Combining Elements across Axes.
-   * Dot Product of a Tensor.
-   * Matrix-Vector Multiplication.
+
+   - Exploring Image.
+   - Creating Scalar, Vector, and Tensor.
+   - Mathematical Operation On Tensors.
+   - Turning Vector Into Matrix.
+   - Transpose and Accessing Elements of a Tensors.
+   - Selecting particular row/column of a Tensors.
+   - Elementwise Multimultiplication of a Tensor.
+   - Matrix Multiplication of a Tensor.
+   - Combining Elements across Axes.
+   - Dot Product of a Tensor.
+   - Matrix-Vector Multiplication.
 
 </details>
 
@@ -69,14 +70,15 @@
 <details>
 <summary>PyTorch-IV</summary>
 <br>
+
    - Handling Time Series Data.
-   <br>
    - Handling Text Data.
 </details>
 
 <details>
 <summary>PyTorch-V</summary>
 <br>
+
    - Building simple model.
    - Computing derivative.
    - Training and computing loss.
