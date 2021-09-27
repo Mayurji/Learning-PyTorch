@@ -2,7 +2,7 @@
 
 <details>
 <summary>PyTorch-I</summary>
-
+<br>
 * Exploring Image.
 * Creating Scalar, Vector, and Tensor.
 * Mathematical Operation On Tensors.
@@ -76,7 +76,7 @@
 
 <details>
 <summary>PyTorch-V</summary>
-
+<br>
 - Building simple model.
 - Computing derivative.
 - Training and computing loss.
