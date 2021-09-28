@@ -4,17 +4,16 @@
 <summary>PyTorch-I</summary>
 <br>
 
-   - Exploring Image.
-   - Creating Scalar, Vector, and Tensor.
-   - Mathematical Operation On Tensors.
-   - Turning Vector Into Matrix.
-   - Transpose and Accessing Elements of a Tensors.
-   - Selecting particular row/column of a Tensors.
-   - Elementwise Multimultiplication of a Tensor.
-   - Matrix Multiplication of a Tensor.
-   - Combining Elements across Axes.
-   - Dot Product of a Tensor.
-   - Matrix-Vector Multiplication.
+   * Image is a tensor?
+   * Creating Scalar, Vector, and Tensor.
+   * Mathematical operation on tensors.
+   * Convert vector to matrices.
+   * Accessing elements in a tensors.
+   * Selecting rows/columns of a tensors.
+   * Elementwise and matrix multiplication between tensors.
+   * Combining Elements in a tensor.
+   * Dot Product of a tensor.
+   * Matrix-Vector Multiplication.
 
 </details>
 
@@ -23,22 +22,22 @@
 <br>
 <strong>Named Tensors</strong>
 
-   - How To Declare Named Dimensions?
-   - Manipulating Using Named Dimensions.
-   - Renaming Dimensions.
+   - How to declare named dimensions?
+   - Manipulating using named dimensions.
+   - Renaming dimensions.
 
 <strong>Tensor Storage</strong>
 
-   - View Storage Object Of A Tensor.
-   - Accessing Storage Location And Modifying Value Of A Tensor.
+   - View storage object of a tensor.
+   - Accessing and modifying a tensor using storage location.
    - Storage Offset.
    
 <strong>Stride</strong>
 
-   - Find the Stride of a Tensor.
+   - Find the stride of a tensor.
    - Storage and Stride.
-   - Accessing Elements Using Stride and Index.
-   - Comparing Index and Stride Based Element.
+   - Accessing elements using stride and index.
+   - Comparing index and stride based element.
 
 </details>
 
@@ -51,6 +50,7 @@
    - Load Batch Of Images (Not Recommended Approach).
 
    - Normalization
+   
         - Resize.
         - Standardization.
         - Plotting.
